@@ -1,5 +1,5 @@
 const jsonData = {
-assetName: 'https://ravetek.github.io/eaglercraft-coming-soon/';
+assetName: 'https://ravetek.github.io/EaglerCraft/';
 }
 
 export default jsonData;
